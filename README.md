@@ -30,6 +30,10 @@ The project uses a publicly available lung cancer dataset containing patient hea
 3. Performed Exploratory Data Analysis (EDA).
 4. Trained the KNN model using the processed data.
 5. Tested the model and generated predictions.
+   
 
 ## Author
 **Sniya Biju**
+
+<img width="1907" height="1091" alt="Screenshot 2026-07-11 175343" src="https://github.com/user-attachments/assets/ed9ff03b-b4df-47d5-b406-6e7cf084c71d" />
+
